@@ -1,0 +1,15 @@
+{
+  "verified_at_utc": "2026-10-14T13:39:27.442884+00:00",
+  "client_date": "2026-10-14",
+  "checks": [
+    {
+      "name": "05-final-tests",
+      "exit": 0
+    },
+    {
+      "name": "06-cli",
+      "exit": 0
+    }
+  ],
+  "scope": "scripted filesystem agent simulation, not live Codex/Claude Code"
+}

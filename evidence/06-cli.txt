@@ -1,0 +1,8 @@
+PUBLIC COPY: machine-specific paths redacted; commands, results and timings unchanged.
+
+$ [PYTHON] -X utf8 [LOCAL_WORKSPACE]\check_cli.py
+start 0 
+capture 0 
+undo 0 
+
+exit=0

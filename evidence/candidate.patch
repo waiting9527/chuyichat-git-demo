@@ -1,0 +1,26 @@
+diff --git a/agent-new.txt b/agent-new.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..0563d2ddb1f12248237fd0f885e7533a11dc3f37
+--- /dev/null
++++ b/agent-new.txt
+@@ -0,0 +1 @@
++agent generated
+diff --git a/app.py b/app.py
+index 3b32496005cd8987c8a1e6d5196a149f1c58b933..ba40b85a6e0d7c7a4ccb1ef30446c9f31e983554 100644
+--- a/app.py
++++ b/app.py
+@@ -1,6 +1,6 @@
+ TAX = 2
+ def total():
+-    return 100 + TAX
++    return 999 + TAX
+ 
+ if __name__ == "__main__":
+     print(total())
+diff --git a/feature.txt b/feature.txt
+index 61ee3f46cd7acfeab1d4aef1baae66030ccf1596..003e8783f0c6fbaf1647e13ef1faf6601b855822 100644
+--- a/feature.txt
++++ b/feature.txt
+@@ -1 +1 @@
+-feature=off
++feature=on
